@@ -4,7 +4,7 @@ This is a Python-based command-line quiz game inspired by *Kaun Banega Crorepati
 
 ---
 
-### 📌 Features
+## 📌 Features
 
 - 🧠 Curated questions focused on data science & machine learning
 - 💰 Progressive prize levels (up to ₹1 crore!)
