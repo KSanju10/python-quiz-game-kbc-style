@@ -18,11 +18,15 @@ This is a Python-based command-line quiz game inspired by *Kaun Banega Crorepati
 
 Make sure you have Python installed (Python 3.6 or higher recommended)
 
+--
+
+🛠️ Tech Stack
+• Python 3.x
+
 ```bash
 python quiz_game.py
 
-🛠️ Tech Stack
-	•	Python 3.x
+
+
 
 ## 🌟 Star this repo if you like it!
-
