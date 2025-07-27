@@ -26,7 +26,3 @@ Make sure you have Python installed (Python 3.6 or higher recommended)
 ```bash
 python quiz_game.py
 
-
-
-
-## 🌟 Star this repo if you like it!
